@@ -102,9 +102,9 @@ this.pantallita.dataset.value = operacion;
 } 
 
 
-
 }
 
+console.log("s borro mi app weather :(");
 
 
 const botonesCalcu = document.querySelectorAll(".botones");
